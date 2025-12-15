@@ -55,7 +55,7 @@ Current tests focus on `WalletService`:
 - PIN update/reset flows
 
 ## Postman
-Import `postman/wallet-collection.json`. Set `{{baseUrl}}` to `http://localhost:3000` and `{{walletId}}` variables after creating a wallet.
+Import `postman/wallet-collection.json`. Set `{{baseUrl}}` to `http://localhost:3000` and `:walletId` variables after creating a wallet.
 
 ## Assumptions
 - Single currency (`USD`) as per requirements; multi-currency is out of scope.
